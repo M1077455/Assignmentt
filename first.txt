@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Helllo Amazon
+=======
+Helllo Flipkart
+>>>>>>> 8bbe62d0a572a1ea1616c1116bb8828304f6c0bc
